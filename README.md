@@ -1,10 +1,10 @@
-# Hi there👋 I'm Nathália 🦊
+# Hi there👋 I'm Nathália 
 
 _A developer from Brazil._
 
 - Data Science student. 👩‍💻
 - (UNIVESP) Graduating in Universidade Virtual do Estado de São Paulo. 🎓
-- Front-End/Back-End. ⚙️🖌️
+- Front-End/Back-End. 
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natee8&show_icons=true&theme=radical)
